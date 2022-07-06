@@ -1,2 +1,2 @@
 # TSarc-Blog
-Blogging Website
+This is Blogging Website made for fun.
