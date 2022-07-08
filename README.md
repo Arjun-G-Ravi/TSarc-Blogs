@@ -1,2 +1,3 @@
 # TSarc-Blog
-This is Blogging Website made for fun.
+Blogging Website created on 6 th July 2022
+
